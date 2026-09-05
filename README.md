@@ -1,3 +1,5 @@
 # 　　　　(1)　　　☆   .　　೨౿　　Ray　
 <div align="center">
-## **GENERAL INFO**
+<h2><b>GENERAL INFO</b></h2>
+
+
