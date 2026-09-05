@@ -1,2 +1,3 @@
 # 　　　　(1)　　　☆   .　　೨౿　　Ray　
-HI test
+<div align="center">
+## **GENERAL INFO**
